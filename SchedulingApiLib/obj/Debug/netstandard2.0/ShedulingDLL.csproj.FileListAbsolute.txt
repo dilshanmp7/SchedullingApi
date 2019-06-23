@@ -1,0 +1,9 @@
+c:\users\dilshan\Source\Repos\ShedulingApi\ShedulingApi\bin\Debug\netstandard2.0\ShedulingDLL.deps.json
+c:\users\dilshan\Source\Repos\ShedulingApi\ShedulingApi\bin\Debug\netstandard2.0\ShedulingDLL.dll
+c:\users\dilshan\Source\Repos\ShedulingApi\ShedulingApi\bin\Debug\netstandard2.0\ShedulingDLL.pdb
+c:\users\dilshan\Source\Repos\ShedulingApi\ShedulingApi\obj\Debug\netstandard2.0\ShedulingDLL.csprojResolveAssemblyReference.cache
+c:\users\dilshan\Source\Repos\ShedulingApi\ShedulingApi\obj\Debug\netstandard2.0\ShedulingDLL.csproj.CoreCompileInputs.cache
+c:\users\dilshan\Source\Repos\ShedulingApi\ShedulingApi\obj\Debug\netstandard2.0\ShedulingDLL.AssemblyInfoInputs.cache
+c:\users\dilshan\Source\Repos\ShedulingApi\ShedulingApi\obj\Debug\netstandard2.0\ShedulingDLL.AssemblyInfo.cs
+c:\users\dilshan\Source\Repos\ShedulingApi\ShedulingApi\obj\Debug\netstandard2.0\ShedulingDLL.dll
+c:\users\dilshan\Source\Repos\ShedulingApi\ShedulingApi\obj\Debug\netstandard2.0\ShedulingDLL.pdb
