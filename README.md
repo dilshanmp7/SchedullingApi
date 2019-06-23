@@ -1,3 +1,1 @@
-# SchedullingApi
-# SchedullingApi
-# SchedullingApi
+This is a technical exercise solution.
